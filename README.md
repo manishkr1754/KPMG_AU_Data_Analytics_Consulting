@@ -1,7 +1,6 @@
-# KPMG AU Data Analytics Consulting
-![image](https://user-images.githubusercontent.com/114581035/222778679-db12c9ab-f171-4029-815b-7cb991bb34f7.png)
+#  ![image](https://assets.kpmg.com/is/image/kpmg/kpmg-logo-1) KPMG AU Data Analytics Consulting 
 
-
+![image](https://github.com/manishkr1754/KPMG_AU_Data_Analytics_Consulting/assets/114581035/1edcdfa5-dd9e-4626-aa91-18883ee5e227)
 
 
 # Data Quality Assessment , Data Insights and Presentation
